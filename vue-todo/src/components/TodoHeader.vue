@@ -1,7 +1,7 @@
 
 <template>
  <div> 
-     <h1> Todo it </h1>
+     <h1> Todo it! </h1>
  </div>
 </template>
 
